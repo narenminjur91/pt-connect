@@ -1,0 +1,13 @@
+{
+  "name": "e2e",
+  "version": "1.0.0",
+  "description": "The repo that contains all the e2e test cases of the Parent Teacher Connect app.",
+  "main": "index.js",
+  "scripts": {
+    "print-text": "echo \"Output generated from the e2e repo script.\""
+  },
+  "keywords": ["E2E", "Testing", "Parent Teacher Connect app", "PTC"],
+  "author": "Naren",
+  "license": "ISC",
+  "type": "module"
+}
