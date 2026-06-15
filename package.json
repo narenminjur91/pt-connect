@@ -1,0 +1,13 @@
+{
+  "name": "pt-connect",
+  "version": "1.0.0",
+  "description": "A digital hub for parents and teachers of a school to connect.",
+  "main": "index.js",
+  "scripts": {
+    "print-text": "echo \"Output generated from the root repo script.\""
+  },
+  "keywords": ["Parent Teacher Connect", "PTC", "Portfolio Application", "JS", "AWS"],
+  "author": "Naren",
+  "license": "ISC",
+  "type": "module"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "The API (ie... server) repo of the Parent Teacher Connect app.",
+  "main": "index.js",
+  "scripts": {
+    "print-text": "echo \"Output generated from the server repo script.\""
+  },
+  "keywords": ["Server", "Backend", "Parent Teacher Connect app", "PTC"],
+  "author": "Naren",
+  "license": "ISC",
+  "type": "module"
+}
