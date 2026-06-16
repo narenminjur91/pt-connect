@@ -1,0 +1,8 @@
+{
+    "$schema": "https://turborepo.dev/schema.json",
+    "tasks": {
+        "print-text": {
+            "dependsOn": ["^print-text"]
+        }
+    }
+}
