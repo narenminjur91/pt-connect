@@ -1,13 +1,23 @@
 {
   "name": "pt-connect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A digital hub for parents and teachers of a school to connect.",
   "main": "index.js",
   "scripts": {
-    "print-text": "echo \"Output generated from the root repo script.\""
+    "print-text": "turbo print-text"
   },
-  "keywords": ["Parent Teacher Connect", "PTC", "Portfolio Application", "JS", "AWS"],
+  "keywords": [
+    "Parent Teacher Connect",
+    "PTC",
+    "Portfolio Application",
+    "JS",
+    "AWS"
+  ],
+  "packageManager": "pnpm@11.6.0",
   "author": "Naren",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "turbo": "^2.9.18"
+  }
 }
