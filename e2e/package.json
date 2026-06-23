@@ -1,6 +1,6 @@
 {
   "name": "e2e",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The repo that contains all the e2e test cases of the Parent Teacher Connect app.",
   "main": "index.js",
   "scripts": {
