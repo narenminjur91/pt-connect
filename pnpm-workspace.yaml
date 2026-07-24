@@ -1,4 +1,6 @@
 packages:
   - "./client"
   - "./server"
-  - "./e2e" 
+  - "./e2e"
+allowBuilds:
+  esbuild: true
